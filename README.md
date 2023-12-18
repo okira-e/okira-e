@@ -1,4 +1,4 @@
-# Welcome To The Basement
+# Welcome to the Basement
 
 ## Here We Write
 
@@ -11,7 +11,7 @@
 ## Are We Linux Users?
 To the core. Manjaro Arch + KDE Plasma.
 
-## Projects
+## Notable Projects
 
 |Projects|Lang|Status|Project Type|
 |:---|:---|:---|:---|
