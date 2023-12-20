@@ -13,9 +13,10 @@ To the core. Manjaro Arch + KDE Plasma.
 
 ## Notable Projects
 
-|Projects|Lang|Status|Project Type|
+|Projects|Status|Project Type|Lang|
 |:---|:---|:---|:---|
-|[GoReports](https://github.com/okira-e/goreports): Reports generation tool with a custom template language for organizations with a "print as a PDF" feature. Templates written in Handlebars with the ability to embed SQL queries & parameters directly.|![Languages & Frameworks I use](https://skillicons.dev/icons?i=go)|Ready For Use|Web Service|
-[Patchi](https://github.com/okira-e/patchi): Patchi connects to 2 of your databases and shows you the differences between them. Useful for migrating database environments. It also generates a migration SQL script for you.|![Languages & Frameworks I use](https://skillicons.dev/icons?i=go)|In Progress|Console App (TUI)|
-[Lox](https://github.com/okira-e/lox-rs): Creating an Interpreted programming language based on the book "Creafting Interpreters" in Rust.|![Languages & Frameworks I use](https://skillicons.dev/icons?i=rust)|In Progress|Compiler|
-[Assember](https://github.com/okira-e/two-pass-sicxe-assembler): A Two Pass 4-bytes Assembler that converts Assembly language to machine code.|![Languages & Frameworks I use](https://skillicons.dev/icons?i=go)|Done|Assembler|
+|[GoReports](https://github.com/okira-e/goreports): Reports generation tool with a custom template language for organizations with a "print as a PDF" feature. Templates written in Handlebars with the ability to embed SQL queries & parameters directly.|Ready For Use|Web Service|![Go](https://skillicons.dev/icons?i=go)|
+[Patchi](https://github.com/okira-e/patchi): Patchi connects to 2 of your databases and shows you the differences between them. Useful for migrating database environments. It also generates a migration SQL script for you.|In Progress|Console App (TUI)|![Go](https://skillicons.dev/icons?i=go)|
+[Lox](https://github.com/okira-e/lox-rs): Creating an Interpreted programming language based on the book "Creafting Interpreters" in Rust.|In Progress|Compiler|![Go](https://skillicons.dev/icons?i=rust)|
+[Assember](https://github.com/okira-e/two-pass-sicxe-assembler): A Two Pass 4-bytes Assembler that converts Assembly language to machine code.|Done|Assembler|![Go](https://skillicons.dev/icons?i=go)|
+[Go Web Framework](https://github.com/okira-e/go-as-your-backend): Starter template for using Go as a REST service. It uses Fiber & GORM as the ORM.|Ready For Use|Web Backend|![Go](https://skillicons.dev/icons?i=go)|
