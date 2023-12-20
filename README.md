@@ -2,7 +2,7 @@
 
 ## Here We Write
 
-![Languages & Frameworks I use](https://skillicons.dev/icons?i=c,cpp,rust,go,js,ts,python)
+![Languages & Frameworks I use](https://skillicons.dev/icons?i=cpp,rust,go,js,ts)
 
 ## We Utilize
 
